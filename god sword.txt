@@ -1,0 +1,1 @@
+/give @p diamond_sword 1 0 {display:{Name:"God Sword",Lore:["Its DA Coolest Sword Ever!!!!!!!!!","1 Hit To Kill da Wither With This Sword!!!!!!!!"]},AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:9999,Operation:0,UUIDMost:39444,UUIDLeast:848550}],ench:[{id:16,lvl:9999}],HideFlags:7,Unbreakable:1}

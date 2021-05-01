@@ -1,0 +1,1 @@
+/give @p golden_pickaxe 1 0 {display:{Name:"super fast golden pickaxe 8 "},AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:90,Operation:0,UUIDMost:66458,UUIDLeast:418030}],ench:[{id:16,lvl:999},{id:21,lvl:500},{id:32,lvl:980},{id:33,lvl:500},{id:34,lvl:999999},{id:35,lvl:500},{id:48,lvl:999999},{id:49,lvl:999999}],Unbreakable:1} 
